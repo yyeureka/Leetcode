@@ -1,0 +1,1242 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Parser.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="408_binary_addition.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="515_min_cost.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="516_min_costII.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="2_add_two_number.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1_two_sum.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3_longest_substring.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="7_reverse_int.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="8_atoi.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="13_roman_to_int.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="14_longest_common_prefix.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="42_trap_water.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="238_product_except_self.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="26_remove_duplicates.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="27_remove_element.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="80_remove_duplicates.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="20_valid_parenthesis.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="32_longest_valid_parenthesis.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="91_decode_num.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="85_max_rectangle.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="19_remove_nth_from_end.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="34_find_first_last.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="36_valid_sudoku.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="38_count_and_say.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="287_find_dup_num.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="41_find_missing_positive_num.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="268_find_missing_num.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="48_rotate_image.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="832_flip_invert_image.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="54_spiral_order.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="56_merge_interval.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="66_plus_one.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="73_set_zeroes.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="76_min_substr.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="79_word_search.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="340_max_substr_kdistinct.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="671_find_2nd_min_in_BT.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="101_symetric_BT.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="118_Pascal_triangle.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="700_search_BST.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="572_is_subtree.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="112_BT_path_sum_I.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="113_BT_path_sum_II.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="437_BT_path_sum_III.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="155_min_stack.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="369_plus_one_linked_list.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="628_max_3_product.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="703_kth_largest_class.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="218_skyline_problem.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="373_k_smallest_pairs.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="937_reorder_log_files.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="57_insert_interval.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="234_palindrome_linked_list.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="237_linked_list_delete_node.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="203_linked_list_delete_nodes.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="445_add_two_numbers_II.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="83_remove_sorted_list_duplicates.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="82_remove_sorted_list_duplicates_II.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="86_partition_linked_list.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="707_design_linked_list.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="344_reverse_string.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="443_string_compression.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="867_transpose_matrix.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="438_find_anagram_in_string.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="567_permutation_in_string.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="242_is_anagram.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="sort_bubble.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="sort_quick.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="sort_bucket.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="sort_merge.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="sort_selection.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="sort_insertion.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="sort_counting.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="338_count_bits.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="397_integer_replacement.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="476_number_complement.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="389_find_difference.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="169_majority_element.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="229_majority_element_II.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="371_sum_of_2_int.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="342_power_of_four.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="326_power_of_three.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="746_min_cost_climb_stairs.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="45_jump_game_II.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="724_find_pivot_index.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="35_search_insert_position.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lint920_meeting_room.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lint919_meeting_room_II.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lint515_paint_house.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lint197_permutation_index.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lint51_previous_permutation.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lint131_skyline_problem_II.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lint229_sort_stack.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lint212_space_replacement.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lint169_tower_of_hanoi.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lint1013_unique_morse_code.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lint637_valid_word_abbreviation.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lint508_wiggle_sort.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lint20_dice_sum.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lint1398_k_addition.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="518_coin_change_II.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="441_arrange_coins.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="350_intersect_of_2_array.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="179_largest_number.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="148_sort_list.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="324_wiggle_sort_II.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="889_preorder_postorder_to_BT.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="315_count_smaller.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="678_valid_parenthesis.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="198_house_robbing.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="279_perfect_squares.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="646_longest_pair_chain.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="673_num_of_longest_increasing_subsequence.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="189_rotate_array.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="134_gas_station.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="329_longest_increasing_path_in_matrix.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="283_move_zeroes.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="217_contains_duplicates.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="116_populating_next_right_pointer.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="454_4sum_II.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="289_game_of_life.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lint641_missing_ranges.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="645_find_celebrity.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="836_rectangle_overlap.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="223_rectangle_area.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="t2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1042_plant_flower_no_adjacent.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lint1784_decrease_to_palindrome.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="647_palindromic_substring.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="713_subarray_product_less_than_k.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="920_music_playlist.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lint604_window_sum.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lint628_max_subtree.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lint613_high_five.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lint629_minimun_spanning_tree.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="202_happy_number.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="171_excel_sheet_col_num.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="172_factorial_trailing_zeroes.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="166_fraction_to_decimal.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="149_max_points_on_a_line.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="227_basic_calculator_II.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lint845_greatest_common_divisor.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1079_letter_tile_possibility.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="150_reverse_polish_notation.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lint391_number_of_airplane_in_the_sky.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lint821_time_intersection.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="850_rectangle_area_II.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="547_friend_circles.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="208_implement_trie.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="212_word_search_II.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="211_add_and_search_word.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lint817_range_sum_query_2D_mutable.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="11_container_with_most_water.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lint1790_rotate_stringII.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="516_667_longest_palindromic_subsequence.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="5_200_longest_palindromic_substring.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="102_69_levelorder_traversal.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="207_615_course_schedule.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="210_616_course_schedule_II.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lint127_topological_sorting.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lint611_knight_shortest_path.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="127_120_word_ladder.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="444_605_sequence_reconstruction.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lint242_convert_BT_to_linked_list_by_depth.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="107_70_BT_level_order_traversal_II.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="269_892_alien_dictionary.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="103_71_zigzagorder_traversal.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="297_7_serialize_deserialize_BT.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="305_434_number_of_islands_II.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="133_137_clone_graph.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="130_477_surrounded_region.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="128_124_longest_consecutive_sequence.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="852_585_peak_in_mountain_array.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="162_75_find_peak_element.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="136_82_single_number.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lint8_rotate_string.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lint1_A+B_problem.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lint1776_area_of_trapezoid.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="201_1325_bitwise_and_of_number_range.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="33_62_search_in_rotated_array.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="278_74_first_bad_version.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="4_65_median_of_2_sorted_array.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="29_414_divide_2_integers.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lint61_search_for_a_range.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="69_141_sqrt.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="81_63_search_in_rotated_array_II.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="200_433_number_of_islands.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="409_627_longest_palindrome.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="28_13_strstr.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="90_18_subsets_II.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="78_17_subsets.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lint594_strstrII.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lint128_hash_function.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="226_175_invert_BT.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="191_365_number_of_1_bits.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="53_41_max_subarray.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lint44_min_subarray.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lint138_subarray_sum.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="560_838_subarray_sum_equals_k.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="209_406_min_size_subarray_sum.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="232_40_implement_queue_using_stacks.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="225_494_implement_stack_using_queue.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lint814_shortest_path_in_undirected_graph.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lint630_knight_shortest_pathII.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="204_1324_count_primes.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lint235_prime_factorization.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lint792_kth_prime_number.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="509_366_fibonacci_number.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lint39_recover_rotated_sorted_array.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="796_rotate_string.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="74_28_search_a_2D_matrix.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="240_38_search_a_2D_matrixII.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lint14_first_position_of_target.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lint458_last_position_of_target.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="704_457_binary_search.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lint447_search_in_a_big_sorted_array.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="658_find_k_closest_element.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lint460_find_k_closest_element.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="153_159_find_min_in_rotated_sorted_array.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="154_160_find_min_in_rotated_sorted_array_II.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lint183_wood_cut.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="462_total_occurrence_of_target.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="50_428_pow.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lint140_fast_power.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="681_find_missing_prime_number.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="230_902_kth_smallest_in_BST.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="144_66_BT_preorder_traversal.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="94_67_BT_inorder_traverse.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="145_68_BT_postorder_traversal.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="98_95_validate_BST.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="257_480_BT_paths.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="124_94_BT_max_path_sum.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="111_155_min_depth_of_BT.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="104_97_max_depth_of_BT.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="236_88_lowest_common_ancestor_of_BT.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="270_900_closest_BST_value.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="114_453_flatten_BT.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lint474_lowest_common_ancestorII.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="106_72_construct_BT_from_inorder_postorder_traversal.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="105_73_construct_BT_from_preorder_inorder_traversal.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="110_93_balanced_BT.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lint11_search_range_in_BST.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="653_689_two_sumIV_BST.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="272_901_closest_BST_valueII.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="669_701_trim_a_BST.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="99_691_recover_BST.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="701_85_insert_into_a_BST.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="108_1359_sorted_array_to_BST.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="109_106_convert_sorted_list_to_BST.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lint596_min_subtree.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lint597_subree_with_max_average.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="173_86_BST_iterator.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lint578_lowest_common_ancestorIII.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="235_1311_BST_common_ancestor.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="285_448_inorder_successor_in_BST.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="125_415_valid_palindrome.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="680_891_valid_palindromeII.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="170_607_two_sumIII_data_structure_design.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lint587_two_sumII_unique_pairs.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="167_608_two_sumII_sorted_array.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="15_57_3Sum.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="611_382_valid_triangle_number.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lint533_two_sum_closest_to_target.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="16_59_3sum_closest.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lint31_partition_array.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lint609_two_sum_less_than_or_equal_to_target.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lint443_two_sum_greater_than_target.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="18_58_4sum.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lint461_kth_smallest_numbers_in_unsorted_array.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="215_5_kth_largest_in_unsorted_array.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lint373_partition_array_by_odd_and_even.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lint80_median.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lint49_sort_letters_by_case.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lint143_sort_colorsII.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lint521_remove_duplicate_numbers_in_array.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="160_380_intersection_of_2_linked_list.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="141_102_linked_list_cycle.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="142_103_linked_list_cycle_II.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="283_539_move_zeroes.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lint610_two_sum_difference_equal_to_target.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lint144_interleaving_positive_and_negative_numbers.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="450_87_delete_node_in_BST.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="876_228_middle_of_linked_list.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lint545_top_k_largest_numbersII.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="347_1281_top_k_frequent_elements.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lint550_top_k_frequent_wordsII.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="692_471_top_k_frequent_words.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lint544_top_k_largest_numbers.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="239_362_sliding_window_max.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="295_81_find_median_from_data_stream.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="480_360_sliding_window_median.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="912_464_sort_an_array.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="46_15_permutations.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="47_16_permutations_II.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="31_52_next_permutation.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lint190_next_permutationII.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="216_combination_sumIII.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="377_564_combination_sumIV.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="39_combination_sum.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="40_153_combination_sumII.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="969_894_pancake_sorting.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lint10_string_permutationII.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lint135_combination_sum.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lint249_count_of_smaller_number_before_itself.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="60_388_permutation_sequence.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lint211_string_permutation.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lint89_k_sum.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="51_33_nqueens.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="52_34_nqueensII.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="17_425_letter_combination.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lint495_implement_stack.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lint224_implement_three_stacks_by_single_array.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="implement_queue_using_linked_list.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lint955_implement_queue_by_circular_array.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lint130_heapify.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="126_121_word_ladderII.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="23_104_merge_k_sorted_list.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="21_165_merge_2_sorted_list.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lint486_merge_k_sorted_array.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="146_134_LRU_cache.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="380_657_insert_delete_getRandom_O%281%29.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lint526_load_balancer.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="381_954_insert_delete_getRandom_O(1)_duplicates.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lint685_first_unique_number_in_data_stream.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lint960_first_unique_number_in_data_streamII.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="138_105_copy_list_with_random_pointer.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lint171_anagrams.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="49_772_group_anagram.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="264_4_ugly_numberII.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="263_517_ugly_number.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="973_612_k_closest_points.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lint680_split_string.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="22_427_generate_parenthesis.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="77_152_combination.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1086_613_high_five.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="378_401_1272_kth_smallest_in_sorted_matrix.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lint829_word_patternII.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lint642_moving_average_from_data_stream.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="387_209_first_unique_char_in_string.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="93_426_restore_IP_addresses.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="322_669_coin_change.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="62_114_unique_path.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="55_116_jump_game.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="152_191_max_product_subarray.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lint125_backpackII.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lint92_backpack.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lint563_backpackV.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lint800_backpackIX.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lint1538_card_gameII.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lint562_backpackIV.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lint109_triangle.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="131_136_palindrome_partition.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="84_122_max_rectangle_area.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="44_192_wildcard_matching.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="10_154_regular_expression_matching.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="139_107_word_break.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="140_582_word_break_II.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="70_111_climb_stairs.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="63_115_unique_pathII.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="64_110_min_path_sum.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lint683_word_breakIII.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lint198_permutation_indexII.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="372_1275_super_power.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="206_35_reverse_linked_list.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="92_36_reverse_linked_list_II.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="334_1287_increasing_triplet_subsequence.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="300_76_longest_increasing_sequence.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="674_397_longest_continuous_increasing_subsequence.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="368_603_largest_divisible_subset.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="354_602_russian_doll_envelopes.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lint139_subarray_sum_closest.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="75_148_sort_colors.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1143_77_longest_common_subsequence.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="72_119_edit_distance.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lint1691_best_time_to_buy_and_sell_stockV.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="312_168_burst_balloons.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="475_1219_heaters.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="987_651_binary_tree_vertical_order_traversal.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="88_64_merge_sorted_array.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="121_149_best_time_to_buy_and_sell_stock.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="123_151_best_time_to_buy_and_sell_stockIII.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="188_393_best_time_to_buy_and_sell_stockIV.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="122_150_best_time_to_buy_and_sell_stockII.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="309_995_best_time_to_buy_and_sell_stock_with_cooldown.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="714_1000_best_time_to_buy_and_sell_stock_with_transaction_fee.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lint839_merge_two_sorted_intervel_lists.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="349_547_intersection_of_2_arrays.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lint944_maximum_submatrix.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="307_840_range_sum_query_mutable.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="303_943_range_sum_query_immutable.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="304_665_range_sum_query_2D_immutable.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lint248_count_of_smaller_number.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lint179_update_bits.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="231_142_power_of_two.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="461_835_hamming_distance.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lint181_flip_bits.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="137_83_single_number_II.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="260_84_single_number_III.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lint236_swap_bits.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="693_987_num_with_alternating_bits.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="190_1333_reverse_bits.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lint654_sparse_matrix_multiplication.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lint577_merge_k_sorted_interval_lists.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lint398_longest_continuous_increasing_subsequenceII.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="lint931_median_of_k_sorted_arrays.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="head.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
